@@ -1,0 +1,17 @@
+#-----------------------------------------------------#
+# .gitignore file for the project                     #
+# GEB 1979                                            #
+#-----------------------------------------------------#
+# Author:        Sabino Maggi                         #
+# File Created:  07-01-2020                           #
+# Last revision: 07-01-2020                           #
+#-----------------------------------------------------#
+
+#--- ignore macOS junk
+.DS_Store
+
+#--- ignore backup files
+*~
+*.bak
+
+#--- end of .gitignore file
